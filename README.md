@@ -8,8 +8,10 @@
         Technical Analysis: Built-in tools for RSI, Moving Averages, and MACD indicators.
         Database Integration: Persistent storage for your portfolio and trade history.
         
-📂 Project StructureFileDescriptionapp.py The main Streamlit web application.
-Run this to see the UI.FINTECH_AI_AGENT.ipynbA Jupyter Notebook version used for testing the LangChain Agent and tools.portfolio.dbThe local SQLite database used by the Streamlit app to store your stocks.stock_portfolio_schema.sqlA PostgreSQL schema for scaling the app to a professional cloud database.
+📂 Project StructureFileDescription
+        app.py :-  The main Streamlit web application. Run this to see the 
+        UI.FINTECH_AI_AGENT.ipynb :- A Jupyter Notebook version used for testing the LangChain Agent                                             tools.portfolio.db :- The local SQLite database used by the Streamlit app to store your 
+        stocks.stock_portfolio_schema.sqlA :- PostgreSQL schema for scaling the app to a professional cloud database.
 
 🛠️ Installation & SetupClone the Repository:Bashgit clone https://github.com/your-username/fintech-ai-agent.git
 cd fintech-ai-agent
